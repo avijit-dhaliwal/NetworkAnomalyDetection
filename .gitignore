@@ -1,0 +1,4 @@
+# Ignore data files
+data/raw/nsl_kdd/*
+data/raw/cicids2017/*
+data/*
